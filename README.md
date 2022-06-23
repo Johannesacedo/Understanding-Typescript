@@ -10,3 +10,9 @@ tsconfig Docs: https://www.typescriptlang.org/docs/handbook/tsconfig-json.html
 Compiler Config Docs: https://www.typescriptlang.org/docs/handbook/compiler-options.html
 
 VS Code TS Debugging: https://code.visualstudio.com/docs/typescript/typescript-debugging
+
+Classes and Interface section related links
+
+More on (JS) Classes: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
+
+More on TS Interfaces: https://www.typescriptlang.org/docs/handbook/2/objects.html
