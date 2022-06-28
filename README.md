@@ -16,3 +16,5 @@ Classes and Interface section related links
 More on (JS) Classes: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
 
 More on TS Interfaces: https://www.typescriptlang.org/docs/handbook/2/objects.html
+
+More on Advanced Types: https://www.typescriptlang.org/docs/handbook/2/types-from-types.html
