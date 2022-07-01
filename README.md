@@ -20,3 +20,5 @@ More on TS Interfaces: https://www.typescriptlang.org/docs/handbook/2/objects.ht
 More on Advanced Types: https://www.typescriptlang.org/docs/handbook/2/types-from-types.html
 
 More on Generics: https://www.typescriptlang.org/docs/handbook/generics.html
+
+More on Decorators: https://www.typescriptlang.org/docs/handbook/decorators.html
