@@ -24,3 +24,9 @@ More on Generics: https://www.typescriptlang.org/docs/handbook/generics.html
 More on Decorators: https://www.typescriptlang.org/docs/handbook/decorators.html
 
 More on Drag & Drop: https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API
+
+Official React Docs: https://reactjs.org/docs/getting-started.html
+
+More React Resources: https://academind.com/learn/react/
+
+create-react-app + TypeScript Docs: https://create-react-app.dev/docs/adding-typescript/
